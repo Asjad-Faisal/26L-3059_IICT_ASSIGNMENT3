@@ -7,4 +7,5 @@ Precedence Check:
 - Specificity determines which rule applies; for this assignment, the order is inline > internal > external.
  Screenshot for my page:
   ![image alt](https://github.com/Asjad-Faisal/26L-3059_IICT_ASSIGNMENT3/blob/main/26L-3059_Q2_SCREENSHOT(1).jpeg?raw=true)
+  ![image alt]()
   
